@@ -1,2 +1,1 @@
-my first readme am trying to edit and 
-
+my first readme and pull
